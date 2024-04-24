@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="progressLoader">
+
+        <item>@color/white.ufc</item>
+        <item>@color/black.ufc</item>
+
+    </array>
+
+</resources>
